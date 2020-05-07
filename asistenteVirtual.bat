@@ -10,7 +10,7 @@ cd ../
 
 cd [direccion a tu archivo]
 
-python ordenPi.py
+python asistente.py
 
 @echo off
 
